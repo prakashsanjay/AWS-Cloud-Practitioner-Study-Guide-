@@ -26,7 +26,7 @@ Every time if you reschedule your date then your confidence level keeps on shrin
 3. Udemy often has their courses go on sale from time to time. It might be worth waiting to purchase you will get 90% discount in these courses
 
 4. AWS conducting webinar on AWS certification preparation and how to use aws services etc attend those services by subscribing & registering on amazon
-  AWS will provide 50% discount voucher code which will valid for 6 month which you can redeem while scheduling your certification exam your exam fee will be reduced by 50%
+  AWS will provide 50% discount voucher code which will valid for 180 days which you can redeem while scheduling your certification exam your exam fee will be reduced by 50%
   once you passed the exam you will get another 50% exam voucher so please use those benifits do not invest full amount on AWS certification exam if your country's currancy
   is very weeker than USD.
   
