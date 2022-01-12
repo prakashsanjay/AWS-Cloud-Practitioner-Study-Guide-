@@ -40,9 +40,9 @@ Every time if you reschedule your date then your confidence level keeps on shrin
 1. [AWS Cheat Sheets by Tutorials Dojo](https://tutorialsdojo.com/)
 2. [AWS Cloud Practitioner Cheat Sheets by Neal Davis]( https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/)
 
-### [AWS Free Practice Test by AWS Boy ](https://www.awsboy.com/aws-practice-exams/)
+#### [AWS Free Practice Test by AWS Boy ](https://www.awsboy.com/aws-practice-exams/)
 
-### [Andrew Brown Free AWS Course in Youtube](https://youtu.be/SOTamWNgDKc)
+#### [Andrew Brown Free AWS Course in Youtube-Add Free](https://youtu.be/SOTamWNgDKc)
 
 
 
