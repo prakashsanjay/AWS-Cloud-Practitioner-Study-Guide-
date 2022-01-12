@@ -1,4 +1,4 @@
-# AWS-Cloud-Practitioner-Study-Guide-
+# AWS-Cloud-Practitioner-Exam-Study-Guide
 This study guide will help you pass the newer AWS Certified Cloud Practitioner exam. Ideally, you should reference this guide while working through the following material:
 
  ## Best Course in Udemy For AWS Certified Cloud Practitioner Exam Preparation
@@ -12,7 +12,7 @@ This study guide will help you pass the newer AWS Certified Cloud Practitioner e
 2. [Neal Davis](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-c/)
 3. [Stephane Maarek](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/)
 
-### Note:- When you are constantly scoring 75-80% in any of these practice test than you are ready to schedule the exam & easily pass the real AWS CLF-C01 exam 
+### Note:- You can easily pass the real AWS Certified Cloud Practitioner Exam (CLF-C01) when you are constantly scoring 75-80% in any of these practice tests. 
  My advice is to buy 2 practice test either (Jon Bonso + Neal Davis) or (Jon Bonso + Stephane Maarek) so that you have more number of questions to practice.
 
 ## Note:-
@@ -26,9 +26,12 @@ Every time if you reschedule your date then your confidence level keeps on shrin
 3. Udemy often has their courses go on sale from time to time. It might be worth waiting to purchase you will get 90% discount in these courses
 
 4. AWS conducting webinar on AWS certification preparation and how to use aws services etc attend those services by subscribing & registering on amazon
-  AWS will provide 50% discount voucher code which will valid for 180 days which you can redeem while scheduling your certification exam your exam fee will be reduced by 50%
-  once you passed the exam you will get another 50% exam voucher so please use those benifits do not invest full amount on AWS certification exam if your country currancy
+  AWS will provide 50% discount voucher code which will valid for 6 month which you can redeem while scheduling your certification exam your exam fee will be reduced by 50%
+  once you passed the exam you will get another 50% exam voucher so please use those benifits do not invest full amount on AWS certification exam if your country's currancy
   is very weeker than USD.
+  
+  ![AWS-discount](https://user-images.githubusercontent.com/23288656/149208065-bb4304bf-4038-47a5-9140-1cc9736b3686.PNG)
+
   
   
 
