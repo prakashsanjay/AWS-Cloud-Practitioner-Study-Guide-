@@ -1,6 +1,11 @@
 # AWS-Cloud-Practitioner-Exam-Study-Guide
 This study guide will help you pass the newer AWS Certified Cloud Practitioner exam. Ideally, you should reference this guide while working through the following material:
 
+### Why I am Eligible to write this Stduy- Guide 
+
+![AWS-PNG](https://user-images.githubusercontent.com/23288656/149264730-9ce3d657-8741-436d-9b9a-6d3a4b49ce7e.png)
+
+
  ## Best Course in Udemy For AWS Certified Cloud Practitioner Exam Preparation
 
 1. [Stephane Maarek](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
